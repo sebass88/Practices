@@ -11,6 +11,7 @@ public class Main {
 
         test.drinks="water";
         test.drinks="soda";
+        test.drinks="beer";
 
     }
 }
