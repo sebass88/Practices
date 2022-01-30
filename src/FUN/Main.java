@@ -10,5 +10,9 @@ public class Main {
         test.food="tacos";
         System.out.println(test.food);
 
+        test.drinks="water";
+        test.drinks="soda";
+        test.drinks="beer";
+
     }
 }
