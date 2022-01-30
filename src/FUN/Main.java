@@ -7,6 +7,7 @@ public class Main {
         test.food="fries";
         test.food="burgers";
         test.food="pizza";
+        test.food="tacos";
         System.out.println(test.food);
 
     }
