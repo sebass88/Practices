@@ -9,5 +9,8 @@ public class Main {
         test.food="pizza";
         System.out.println(test.food);
 
+        test.drinks="water";
+        test.drinks="soda";
+
     }
 }
